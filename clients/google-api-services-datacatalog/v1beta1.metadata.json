@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-datacatalog",
-    "version": "v1beta1-rev20250212-2.0.0"
-  }
-}

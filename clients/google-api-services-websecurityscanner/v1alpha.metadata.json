@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-websecurityscanner",
-    "version": "v1alpha-rev20231021-2.0.0"
-  }
-}

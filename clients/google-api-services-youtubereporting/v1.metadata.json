@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-youtubereporting",
-    "version": "v1-rev20230704-2.0.0"
-  }
-}

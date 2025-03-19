@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-androidpublisher",
-    "version": "v3-rev20250227-2.0.0"
-  }
-}

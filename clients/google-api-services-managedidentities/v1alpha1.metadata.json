@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-managedidentities",
-    "version": "v1alpha1-rev20250116-2.0.0"
-  }
-}

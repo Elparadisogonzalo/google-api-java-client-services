@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-admin-datatransfer",
-    "version": "datatransfer_v1-rev20221108-2.0.0"
-  }
-}

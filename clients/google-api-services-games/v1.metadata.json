@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-games",
-    "version": "v1-rev20241209-2.0.0"
-  }
-}

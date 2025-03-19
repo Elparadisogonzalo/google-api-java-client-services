@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-jobs",
-    "version": "v3p1beta1-rev20241219-2.0.0"
-  }
-}

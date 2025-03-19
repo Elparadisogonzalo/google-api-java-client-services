@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-datafusion",
-    "version": "v1-rev20250224-2.0.0"
-  }
-}

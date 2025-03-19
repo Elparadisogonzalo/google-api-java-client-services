@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-admob",
-    "version": "v1beta-rev20240514-2.0.0"
-  }
-}

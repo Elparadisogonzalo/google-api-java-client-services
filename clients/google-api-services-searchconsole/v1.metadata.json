@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-searchconsole",
-    "version": "v1-rev20250122-2.0.0"
-  }
-}

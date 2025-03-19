@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-cloudbilling",
-    "version": "v1-rev20241011-2.0.0"
-  }
-}

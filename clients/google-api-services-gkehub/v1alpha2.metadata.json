@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-gkehub",
-    "version": "v1alpha2-rev20211105-1.32.1"
-  }
-}

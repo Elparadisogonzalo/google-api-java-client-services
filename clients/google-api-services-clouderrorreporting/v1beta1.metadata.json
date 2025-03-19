@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-clouderrorreporting",
-    "version": "v1beta1-rev20240705-2.0.0"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-firebaserules",
-    "version": "v1-rev20241125-2.0.0"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-gamesConfiguration",
-    "version": "v1configuration-rev20221124-2.0.0"
-  }
-}

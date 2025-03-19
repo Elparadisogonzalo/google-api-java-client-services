@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-doubleclicksearch",
-    "version": "v2-rev20240124-2.0.0"
-  }
-}

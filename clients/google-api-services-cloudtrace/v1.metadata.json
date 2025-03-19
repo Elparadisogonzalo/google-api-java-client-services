@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-cloudtrace",
-    "version": "v1-rev20240816-2.0.0"
-  }
-}

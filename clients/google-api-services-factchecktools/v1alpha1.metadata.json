@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-factchecktools",
-    "version": "v1alpha1-rev20240929-2.0.0"
-  }
-}

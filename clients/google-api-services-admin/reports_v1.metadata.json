@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-admin-reports",
-    "version": "reports_v1-rev20250128-2.0.0"
-  }
-}

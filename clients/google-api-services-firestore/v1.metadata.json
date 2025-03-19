@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-firestore",
-    "version": "v1-rev20250120-2.0.0"
-  }
-}

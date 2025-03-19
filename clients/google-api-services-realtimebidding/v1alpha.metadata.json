@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-realtimebidding",
-    "version": "v1alpha-rev20210923-1.32.1"
-  }
-}

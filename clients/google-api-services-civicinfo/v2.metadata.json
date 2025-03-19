@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-civicinfo",
-    "version": "v2-rev20240910-2.0.0"
-  }
-}

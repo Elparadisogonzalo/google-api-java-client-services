@@ -1,7 +1,0 @@
-{
-  "maven": {
-    "groupId": "com.google.apis",
-    "artifactId": "google-api-services-sourcerepo",
-    "version": "v1-rev20211206-1.32.1"
-  }
-}
